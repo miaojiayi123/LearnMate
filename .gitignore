@@ -1,8 +1,7 @@
 __pycache__/
 *.pyc
 .venv/
-output/
-input/
+
 *.pdf
 chroma_db/
 rag_cache/
